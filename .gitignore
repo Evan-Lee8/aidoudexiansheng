@@ -1,0 +1,32 @@
+# 虚拟环境
+.venv/
+
+# Python编译文件
+__pycache__/
+*.pyc
+
+# PyInstaller生成文件
+build/
+dist/
+*.spec
+
+# 日志文件
+*.log
+
+# IDE配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 测试报告
+coverage.xml
+htmlcov/
+
+# 临时文件
+*.tmp
+*.temp
